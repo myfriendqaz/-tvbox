@@ -503,3 +503,4 @@ tvcdn.stream3.hndt.com:80
 tvlist.top:80
 121.19.134.243:808
 hzcm-live.media.hugd.com:443
+125.42.150.53:9901
