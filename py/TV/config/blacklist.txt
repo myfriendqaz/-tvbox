@@ -504,3 +504,12 @@ tvlist.top:80
 121.19.134.243:808
 hzcm-live.media.hugd.com:443
 125.42.150.53:9901
+36.40.237.243:9999
+dxtx.hntv.tv:443
+play-hsbj.vzan.com:80
+smt.veryfast.filegear-sg.me:80
+129.150.54.232:10001
+122.152.202.33:80
+58.51.111.46:1111
+radio.pull.hebtv.com:443
+live.nctv.top:80
