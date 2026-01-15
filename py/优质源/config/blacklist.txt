@@ -3630,3 +3630,6 @@ bcovlive-a.akamaihd.net
 106.83.119.152
 keke.kandiantv.cn
 v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com
+58.46.28.106
+106.59.2.106
+175.164.140.19
