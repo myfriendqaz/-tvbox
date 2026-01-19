@@ -3651,3 +3651,4 @@ pull-hls-f1.douyincdn.com
 39.77.27.246
 101.66.195.54
 36.46.98.87
+iptv.catvod.com
