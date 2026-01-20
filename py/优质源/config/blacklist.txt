@@ -3653,3 +3653,4 @@ pull-hls-f1.douyincdn.com
 36.46.98.87
 iptv.catvod.com
 125.42.151.45
+dminnvll.cdn.mangomolo.com
