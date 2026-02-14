@@ -3776,3 +3776,12 @@ test1.live.sdetv.com.cn
 36.46.98.62
 ushls.ballbar.net
 goodiptv.club
+113.119.24.60
+113.44.65.227
+106.83.119.77
+223.198.242.137
+222.83.161.27
+114.254.33.207
+mgsp-zy.vod.miguvideo.com
+115.171.216.96
+mgsp-tx2.live.miguvideo.com
