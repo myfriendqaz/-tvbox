@@ -3775,3 +3775,4 @@ test1.live.sdetv.com.cn
 222.83.161.196
 36.46.98.62
 ushls.ballbar.net
+goodiptv.club
