@@ -817,3 +817,5 @@ iptv.hn.cn:1258
 182.114.49.21:9901
 hlsbkmgsplive.miguvideo.com:80
 pull-hls-f11.douyincdn.com:80
+221.13.234.38:9901
+rihou.cc:555
