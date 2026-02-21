@@ -53,3 +53,5 @@ pull-vivek.speedws.com
 ls.qingting.fm
 satellitepull.cnr.cn
 piccpndali.v.myalicdn.com
+218.17.33.178
+182.150.23.74
