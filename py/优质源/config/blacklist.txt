@@ -55,3 +55,5 @@ satellitepull.cnr.cn
 piccpndali.v.myalicdn.com
 218.17.33.178
 182.150.23.74
+119.32.12.17
+223.145.224.76
