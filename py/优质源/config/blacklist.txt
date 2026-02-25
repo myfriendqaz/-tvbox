@@ -36,3 +36,8 @@ tpc.x3322.net
 mgsp-zy.vod.miguvideo.com
 live.gxrb.com.cn
 live.metshop.top
+tvcdn.stream3.hndt.com
+61.221.215.25
+mgsp-tx2.live.miguvideo.com
+223.105.252.8
+gdcucc.v1.mk
