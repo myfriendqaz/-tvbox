@@ -41,3 +41,8 @@ tvcdn.stream3.hndt.com
 mgsp-tx2.live.miguvideo.com
 223.105.252.8
 gdcucc.v1.mk
+111.221.137.234
+live.ynurl.com
+101.66.199.78
+live.dxhmt.cn
+tvdrs.wsrtv.com.cn
