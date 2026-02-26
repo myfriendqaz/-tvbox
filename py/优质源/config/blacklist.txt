@@ -46,3 +46,5 @@ live.ynurl.com
 101.66.199.78
 live.dxhmt.cn
 tvdrs.wsrtv.com.cn
+5ddce30eb4b55.streamlock.net
+119.32.12.17
