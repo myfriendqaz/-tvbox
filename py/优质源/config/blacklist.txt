@@ -54,3 +54,7 @@ stream.thmz.com
 traffic.jbh.tjbh.com
 120.238.94.82
 m3u8channel.yunxya.com
+38.75.136.137
+webcast.hkstv.tv
+69.30.246.194
+120.76.248.139
