@@ -50,3 +50,7 @@ tvpull.smartwq.cn
 222.169.85.8
 223.145.224.76
 live.jinchuanrmt.com
+111.221.137.234
+l.cztvcloud.com
+tvcdn.stream3.hndt.com
+153.0.171.163
