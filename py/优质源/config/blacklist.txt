@@ -54,3 +54,6 @@ live.jinchuanrmt.com
 l.cztvcloud.com
 tvcdn.stream3.hndt.com
 153.0.171.163
+cm-wshls.homecdn.com
+223.105.252.8
+pull-vivek.speedws.com
