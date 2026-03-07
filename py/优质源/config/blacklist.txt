@@ -67,3 +67,5 @@ live.metshop.top
 m3u8.channel.wsrtv.com.cn
 play.scrstv.com.cn
 112.132.10.54
+183.64.174.171
+www.ahtv.cn
