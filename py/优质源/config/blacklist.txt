@@ -63,3 +63,9 @@ event.pull.hebtv.com
 liveout.xntv.tv
 60.222.246.220
 iptv.4666888.xyz
+tvdrs.wsrtv.com.cn
+epg.pw
+112.123.243.37
+r.jdshipin.com
+cdn8.163189.xyz
+live.wjyanghu.com
