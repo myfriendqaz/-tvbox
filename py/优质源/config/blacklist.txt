@@ -69,3 +69,5 @@ epg.pw
 r.jdshipin.com
 cdn8.163189.xyz
 live.wjyanghu.com
+119.39.9.8
+182.150.23.74
