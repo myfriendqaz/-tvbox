@@ -32,3 +32,10 @@ liveout.gstv.com.cn
 masterpull.hljtv.com
 148.113.160.49
 rmplive.hljtv.com
+pull-hls-f11.douyincdn.com
+goodiptv.club
+stream.thmz.com
+222.169.85.8
+183.237.95.108
+183.11.239.36
+tpc.x3322.net
