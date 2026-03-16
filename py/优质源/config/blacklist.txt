@@ -57,3 +57,5 @@ gslbmgsplive.miguvideo.com
 test1.live.sdetv.com.cn
 hls.cntv.lxdns.com
 hlsbkmgsplive.miguvideo.com
+223.105.252.8
+183.223.157.33
