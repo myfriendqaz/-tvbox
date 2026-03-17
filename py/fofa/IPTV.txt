@@ -1,7 +1,7 @@
-更新时间: 2026-03-17 18:02:49（北京时间）
+更新时间: 2026-03-18 07:54:15（北京时间）
 
 更新时间,#genre#
-2026-03-17 18:02:49,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
+2026-03-18 07:54:15,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
 
 央视频道,#genre#
 CCTV1,http://123.157.31.182:7912/rtp/233.50.201.118:5140$浙江电信
