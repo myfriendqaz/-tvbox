@@ -78,3 +78,6 @@ stream.sun0769.com
 222.179.42.129
 webcast.hkstv.tv
 1.24.39.180
+www.ahtv.cn
+l.cztvcloud.com
+satellitepull.cnr.cn
