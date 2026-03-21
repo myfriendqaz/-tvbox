@@ -36,3 +36,4 @@ ls.qingting.fm
 hslive.hsnewsnet.com
 live.gxrb.com.cn
 mgtv.ottiptv.cc
+120.211.62.180
