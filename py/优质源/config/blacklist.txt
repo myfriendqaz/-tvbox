@@ -43,3 +43,5 @@ stream.thmz.com
 www.ahtv.cn
 l.cztvcloud.com
 101.66.198.231
+223.105.252.8
+live.gdtv.ah.cn
