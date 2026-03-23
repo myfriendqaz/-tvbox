@@ -54,3 +54,5 @@ liveout.gstv.com.cn
 111.221.137.234
 play.scrstv.com.cn
 112.123.243.37
+iptv.4666888.xyz
+live.xysrmt.cn
