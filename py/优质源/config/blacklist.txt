@@ -56,3 +56,6 @@ play.scrstv.com.cn
 112.123.243.37
 iptv.4666888.xyz
 live.xysrmt.cn
+120.76.248.139
+live.dxhmt.cn
+113.25.252.226
