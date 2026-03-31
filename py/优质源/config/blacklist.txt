@@ -114,3 +114,6 @@ traffic.jbh.tjbh.com
 m3u8.channel.wsrtv.com.cn
 live.dxhmt.cn
 218.84.12.186
+live.zzyxxw.com
+0472.org
+218.13.170.98
