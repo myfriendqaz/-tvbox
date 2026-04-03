@@ -454,3 +454,8 @@ gxlive.snrtv.com:80
 221.13.234.193:9901
 125.42.148.87:9901
 gdcucc.v1.mk:443
+dms.yryyj.site:8188
+148.113.160.49:14176
+v3.mediacast.hk:443
+drive.mxmy.net:8888
+219.150.217.47:6610
