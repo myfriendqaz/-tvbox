@@ -462,3 +462,4 @@ drive.mxmy.net:8888
 101.66.198.193:9901
 php.jdshipin.com:2096
 gfr.x3322.net:9901
+m3u8channel.ganzitv.com:443
