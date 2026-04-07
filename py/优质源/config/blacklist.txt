@@ -79,3 +79,6 @@ iptv77.iptv66.eu.org
 ls.qingting.fm
 satellitepull.cnr.cn
 play-a2.quklive.com
+111.61.236.247
+m3u8channel.ganzitv.com
+119.39.9.8
