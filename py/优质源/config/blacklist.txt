@@ -31,3 +31,8 @@ play.kankanlive.com
 110.19.181.138
 zjzcf.synology.me
 v3.mediacast.hk
+153.0.171.163
+112.46.105.20
+112.123.243.37
+dxtx.hntv.tv
+stream.sun0769.com
