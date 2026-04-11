@@ -63,3 +63,7 @@ gfr.x3322.net
 1.24.39.180
 123.130.84.106
 101.66.199.108
+stream.hrbtv.net
+live.metshop.top
+107.150.60.122
+tvpull.smartwq.cn
