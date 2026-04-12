@@ -67,3 +67,4 @@ stream.hrbtv.net
 live.metshop.top
 107.150.60.122
 tvpull.smartwq.cn
+gcalic.v.myalicdn.com
