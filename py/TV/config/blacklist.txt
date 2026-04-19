@@ -463,3 +463,7 @@ drive.mxmy.net:8888
 php.jdshipin.com:2096
 gfr.x3322.net:9901
 m3u8channel.ganzitv.com:443
+182.114.49.159:9901
+nn.7x9d.cn:80
+61.219.170.95:18633
+154.37.212.176:80
