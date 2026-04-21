@@ -50,3 +50,8 @@ stream.thmz.com
 hkstv.tv
 183.223.157.33
 198.204.228.26
+43.156.8.127
+123.130.84.106
+218.104.239.114
+stream.freetv.fun
+gcalic.v.myalicdn.com
