@@ -55,3 +55,4 @@ hkstv.tv
 218.104.239.114
 stream.freetv.fun
 gcalic.v.myalicdn.com
+218.84.12.186
