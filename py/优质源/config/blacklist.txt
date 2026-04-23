@@ -62,3 +62,6 @@ l.cztvcloud.com
 101.66.198.164
 www.ahtv.cn
 101.66.198.95
+tvpull.hmgbtv.com
+14.152.102.71
+traffic.jbh.tjbh.com
