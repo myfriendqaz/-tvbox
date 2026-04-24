@@ -67,3 +67,8 @@ tvpull.hmgbtv.com
 traffic.jbh.tjbh.com
 iptv77.iptv66.eu.org
 101.66.195.20
+tencentplay.gztv.com
+223.105.252.8
+38.75.136.137
+tvpull.smartwq.cn
+183.11.239.36
