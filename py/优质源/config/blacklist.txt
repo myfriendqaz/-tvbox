@@ -66,3 +66,4 @@ tvpull.hmgbtv.com
 14.152.102.71
 traffic.jbh.tjbh.com
 iptv77.iptv66.eu.org
+101.66.195.20
