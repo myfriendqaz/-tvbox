@@ -56,3 +56,9 @@ srs.iyb983.cn
 live12.xiazhix1.top
 61.216.67.119
 5ddce30eb4b55.streamlock.net
+222.179.42.129
+lb.streaming.sk
+pili-live-hls-sjxgz2024.sobeylive.com
+112.123.243.37
+218.104.239.114
+tpc.x3322.net
