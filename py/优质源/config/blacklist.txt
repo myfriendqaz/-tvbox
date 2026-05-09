@@ -46,3 +46,11 @@ huaiyin-tv-replay.cm.jstv.com
 101.66.198.136
 101.66.198.87
 101.66.198.11
+hwapi.yntv.net
+l.cztvcloud.com
+120.10.167.40
+live.metshop.top
+gcalic.v.myalicdn.com
+120.211.62.180
+221.13.235.120
+112.123.243.37
