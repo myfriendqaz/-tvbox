@@ -60,3 +60,8 @@ gcalic.v.myalicdn.com
 218.13.170.98
 lianshui-tv-hls.cm.jstv.com
 39.152.103.17
+qcfile.qcrmt.com
+113.25.252.226
+222.214.208.34
+111.170.156.74
+222.179.42.129
