@@ -58,3 +58,5 @@ gcalic.v.myalicdn.com
 124.116.183.146
 221.13.235.203
 218.13.170.98
+lianshui-tv-hls.cm.jstv.com
+39.152.103.17
