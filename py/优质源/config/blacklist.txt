@@ -84,3 +84,5 @@ live.264788.xyz
 122.100.242.52
 iptv.kakacq.com
 183.237.95.108
+shuyang-tv-hls.cm.jstv.com
+play-a2.quklive.com
