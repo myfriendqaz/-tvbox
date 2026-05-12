@@ -76,3 +76,11 @@ m3u8.channel.dzsm.com
 cssbyd.imwork.net
 101.66.198.233
 101.66.198.224
+59.62.1.50
+hls.cntv.lxdns.com
+live.264788.xyz
+218.84.12.186
+112.46.105.20
+122.100.242.52
+iptv.kakacq.com
+183.237.95.108
