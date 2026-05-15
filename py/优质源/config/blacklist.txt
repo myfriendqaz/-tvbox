@@ -49,3 +49,7 @@ stream.hrbtv.net
 182.114.50.12
 111.170.156.74
 111.221.137.234
+play-a2.quklive.com
+live.xysrmt.cn
+47.108.228.131
+l.cztvcloud.com
