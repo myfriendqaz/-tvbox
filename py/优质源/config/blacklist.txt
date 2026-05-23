@@ -65,3 +65,5 @@ pull-f3.douyincdn.com
 111.8.224.6
 satellitepull.cnr.cn
 223.247.25.205
+101.6.130.102
+27.12.12.42
