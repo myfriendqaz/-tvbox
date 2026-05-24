@@ -73,3 +73,4 @@ satellitepull.cnr.cn
 67.220.71.199
 huaiyin-tv-replay.cm.jstv.com
 lxajh.top
+live.xysrmt.cn
