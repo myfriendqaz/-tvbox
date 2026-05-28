@@ -55,3 +55,4 @@ gcalic.v.myalicdn.com
 m3u8.channel.dzsm.com
 183.129.255.66
 112.27.235.94
+222.130.32.44
