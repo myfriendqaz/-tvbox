@@ -56,3 +56,10 @@ m3u8.channel.dzsm.com
 183.129.255.66
 112.27.235.94
 222.130.32.44
+live.zohi.tv
+58.17.116.69
+61.136.172.236
+222.214.208.34
+tntgjhjb.live.sxmty.com
+goodiptv.club
+l2fpdktp.live.sxmty.com
