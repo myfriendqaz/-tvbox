@@ -66,3 +66,7 @@ l2fpdktp.live.sxmty.com
 stream.sun0769.com
 119.118.88.58
 live.ahsz.tv
+223.247.25.205
+221.13.235.54
+120.211.62.180
+ali-m-l.cztv.com
