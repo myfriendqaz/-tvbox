@@ -70,3 +70,7 @@ live.ahsz.tv
 221.13.235.54
 120.211.62.180
 ali-m-l.cztv.com
+221.226.51.220
+113.141.220.55
+222.179.42.129
+huaiyin-tv-replay.cm.jstv.com
