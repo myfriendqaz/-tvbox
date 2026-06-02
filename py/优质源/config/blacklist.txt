@@ -48,3 +48,6 @@ stream.ads.ottera.tv
 stream.thmz.com
 goodiptv.club
 live.264788.xyz
+101.66.198.62
+101.66.199.12
+l.cztvcloud.com
