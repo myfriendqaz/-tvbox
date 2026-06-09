@@ -68,3 +68,4 @@ r.jdshipin.com
 bp-resource-dfl.bestv.cn
 113.141.220.55
 125.43.244.34
+play.yunxya.com
