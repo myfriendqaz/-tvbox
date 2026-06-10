@@ -69,3 +69,7 @@ bp-resource-dfl.bestv.cn
 113.141.220.55
 125.43.244.34
 play.yunxya.com
+gcalic.v.myalicdn.com
+ls.qingting.fm
+115.44.140.170
+61.136.172.236
