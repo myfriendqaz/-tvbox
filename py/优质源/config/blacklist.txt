@@ -45,3 +45,6 @@ live.metshop.top
 116.52.173.106
 218.13.170.98
 masterpull.hljtv.com
+l.cztvcloud.com
+zmgd.zyrnet.com
+218.206.193.218
