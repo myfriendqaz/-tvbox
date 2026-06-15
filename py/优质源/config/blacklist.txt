@@ -63,3 +63,5 @@ lxajh.top
 110.244.139.249
 gslbflvmgsplive.miguvideo.com
 gslbmgspvod.miguvideo.com
+tmpstream.hyrtv.cn
+182.150.23.74
