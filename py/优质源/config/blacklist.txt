@@ -65,3 +65,7 @@ gslbflvmgsplive.miguvideo.com
 gslbmgspvod.miguvideo.com
 tmpstream.hyrtv.cn
 182.150.23.74
+flvctypull2mgsplive.miguvideo.com
+antvlive.ab5c6921.cdnviet.com
+tylive.kan0512.com
+183.237.95.108
