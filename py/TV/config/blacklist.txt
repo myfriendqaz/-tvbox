@@ -502,3 +502,8 @@ ali-xwl.cztv.com:80
 101.66.194.12:9901
 www.guzhenm.com:7001
 221.7.175.154:8445
+125.43.244.40:9901
+223.75.149.129:9906
+svip.high24-playback.com:443
+125.43.249.150:9901
+svipsvip.ffzyread1.com:443
