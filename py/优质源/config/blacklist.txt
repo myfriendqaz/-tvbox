@@ -34,3 +34,4 @@ idclive.hljtv.com
 124.88.144.73
 221.7.175.154
 222.134.245.16
+tmpstream.hyrtv.cn
