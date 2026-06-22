@@ -71,3 +71,7 @@ shcm-stream-cf1.stream.264788.xyz
 bp-resource-dfl.bestv.cn
 webcast.hkstv.tv
 222.179.42.129
+116.128.243.121
+live.wxinxi.com
+101.66.194.49
+101.66.198.87
