@@ -64,3 +64,5 @@ flv-play.clouda.com
 bp-resource-dfl.bestv.cn
 r.jdshipin.com
 stream.thmz.com
+flvhspull2mgsplive.miguvideo.com
+stream.hrbtv.net
