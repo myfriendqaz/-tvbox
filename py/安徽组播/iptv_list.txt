@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-07-07 07:04:43,url
+2026-07-08 06:58:56,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -9,4 +9,5 @@
 其他频道,#genre#:
 
 
-404: Not Found
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
