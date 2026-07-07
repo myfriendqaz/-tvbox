@@ -33,3 +33,5 @@ masterpull.hljtv.com
 play.kankanlive.com
 ls.qingting.fm
 124.88.144.73
+222.169.85.8
+119.39.9.8
