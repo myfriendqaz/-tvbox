@@ -49,3 +49,7 @@ dspdhls.appcoo.com
 l.cztvcloud.com
 123.163.114.168
 101.66.198.115
+115.48.161.55
+125.42.150.240
+125.42.150.233
+jwcdnqx.hebyun.com.cn
