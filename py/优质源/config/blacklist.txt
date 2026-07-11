@@ -84,3 +84,6 @@ gcalic.v.myalicdn.com
 222.223.41.27
 stream8.jlntv.cn
 stream.hrbtv.net
+112.46.105.20
+118.193.115.2
+zmgd.zyrnet.com
