@@ -53,3 +53,4 @@ lxajh.top
 m3u8.channel.dzsm.com
 111.221.137.234
 satellitepull.cnr.cn
+gmxw.7766.org
