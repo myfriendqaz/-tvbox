@@ -54,3 +54,15 @@ m3u8.channel.dzsm.com
 111.221.137.234
 satellitepull.cnr.cn
 gmxw.7766.org
+file.ysxtv.cn
+cdn-4.pishow.tv
+60.10.139.113
+vip1.xinketongxun.fun
+live1.gatv.com.cn
+183.129.255.66
+118.193.115.2
+112.46.105.20
+ali-m-l.cztv.com
+221.7.175.154
+112.46.85.60
+live.jinchuanrmt.com
