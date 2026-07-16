@@ -67,3 +67,6 @@ ali-m-l.cztv.com
 112.46.85.60
 live.jinchuanrmt.com
 hslive.hsnewsnet.com
+182.150.23.74
+tvcdn.stream3.hndt.com
+110.154.192.66
