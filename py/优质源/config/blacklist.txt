@@ -70,3 +70,7 @@ hslive.hsnewsnet.com
 182.150.23.74
 tvcdn.stream3.hndt.com
 110.154.192.66
+live.264788.xyz
+shcm-stream-cf1.stream.264788.xyz
+epg.pw
+bp-resource-dfl.bestv.cn
