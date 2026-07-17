@@ -74,3 +74,5 @@ live.264788.xyz
 shcm-stream-cf1.stream.264788.xyz
 epg.pw
 bp-resource-dfl.bestv.cn
+jwcdnqx.hebyun.com.cn
+218.206.193.218
