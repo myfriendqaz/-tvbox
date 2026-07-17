@@ -76,3 +76,5 @@ epg.pw
 bp-resource-dfl.bestv.cn
 jwcdnqx.hebyun.com.cn
 218.206.193.218
+182.127.153.119
+14.153.176.108
