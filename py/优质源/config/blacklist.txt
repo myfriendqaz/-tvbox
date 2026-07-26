@@ -34,3 +34,7 @@ zjtv-wshls.homecdn.com
 stream.thmz.com
 121.19.134.22
 jsmov2.a.yximgs.com
+198.204.240.250
+bp-resource-dfl.bestv.cn
+118.193.115.2
+69.30.245.50
