@@ -74,3 +74,8 @@ zmgd.zyrnet.com
 183.129.255.66
 218.206.193.218
 116.147.108.169
+hls.nntv.cn
+tntgjhjb.live.sxmty.com
+110.154.192.36
+pull-hls-f1.douyinliving.com
+139.227.21.22
