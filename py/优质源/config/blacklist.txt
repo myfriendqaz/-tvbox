@@ -72,3 +72,8 @@ utv1.hqtvzb.com
 m3u8channel-yj.yunxya.com
 m3u8channel.yunxya.com
 m3u8channel-bx.yunxya.com
+jwcdnqx.hebyun.com.cn
+222.214.208.34
+101.66.194.121
+222.130.32.99
+hzcm-live.media.hugd.com
