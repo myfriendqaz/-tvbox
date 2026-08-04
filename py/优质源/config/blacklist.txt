@@ -94,3 +94,8 @@ hzcm-live.media.hugd.com
 m3u8.channel.dzsm.com
 182.150.23.74
 uzoiczhh.live.sxmty.com
+125.42.151.53
+125.43.249.115
+zjtv-wshls.homecdn.com
+111.8.177.168
+ali-vl.cztv.com
