@@ -89,3 +89,8 @@ hzcm-live.media.hugd.com
 115.48.160.81
 61.216.67.119
 112.27.5.218
+182.127.153.128
+104.152.209.49
+m3u8.channel.dzsm.com
+182.150.23.74
+uzoiczhh.live.sxmty.com
