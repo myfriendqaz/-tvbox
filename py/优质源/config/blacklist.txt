@@ -52,3 +52,7 @@ tpc.x3322.net
 bp-resource-dfl.bestv.cn
 111.4.59.41
 38.75.136.137
+ali-m-l.cztv.com
+1yp7hc5p.live.sxmty.com
+125.42.148.9
+221.13.235.58
