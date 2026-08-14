@@ -68,3 +68,9 @@ vip.ffzy-online.com
 222.130.32.96
 hzcm-live.media.hugd.com
 153.0.171.163
+ls.qingting.fm
+m3u8.channel.dzsm.com
+ali-vl.cztv.com
+58.56.162.102
+220.192.165.126
+113.26.202.52
