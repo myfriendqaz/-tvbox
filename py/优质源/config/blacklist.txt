@@ -74,3 +74,8 @@ ali-vl.cztv.com
 58.56.162.102
 220.192.165.126
 113.26.202.52
+183.185.66.248
+118.193.115.2
+cm-wshls.homecdn.com
+bp-resource-dfl.bestv.cn
+lbyzztfe.live.sxmty.com
