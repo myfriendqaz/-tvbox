@@ -33,3 +33,6 @@ l.cztvcloud.com
 live.yantaitv.cn
 hzcm-live.media.hugd.com
 111.76.19.115
+27.39.122.2
+61.178.227.57
+tpc.x3322.net
