@@ -59,3 +59,6 @@ play.scrstv.com.cn
 bztv.tvbus.cc
 120.237.39.10
 cm-wshls.homecdn.com
+223.78.65.165
+211.92.102.44
+ali-vl.cztv.com
