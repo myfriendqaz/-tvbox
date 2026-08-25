@@ -526,3 +526,13 @@ gslbmgsplive.miguvideo.com:80
 182.61.15.163:80
 182.114.48.185:9901
 221.13.235.76:9901
+123.118.53.84:45237
+tencentplaybusiness.gztv.com:443
+play.scrstv.com.cn:443
+1.28.123.148:9901
+live.ottiptv.cc:80
+112.27.5.218:9901
+russian-livews.cgtn.com:80
+channel.wcrmt.cn:80
+t.061899.xyz:80
+123.118.55.165:45237
