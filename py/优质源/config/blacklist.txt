@@ -46,3 +46,6 @@ bp-resource-dfl.bestv.cn
 play.scrstv.com.cn
 615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn
 live.ahsz.tv
+tpc.x3322.net
+live.chinacert.cftest5.cn
+cm-wshls.homecdn.com
