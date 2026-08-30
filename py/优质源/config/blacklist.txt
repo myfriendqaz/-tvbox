@@ -53,3 +53,8 @@ cm-wshls.homecdn.com
 198.204.240.250
 61.136.172.236
 111.59.24.227
+125.125.234.143
+120.198.95.220
+hzcm-live.media.hugd.com
+m3u8.channel.dzsm.com
+218.13.170.98
