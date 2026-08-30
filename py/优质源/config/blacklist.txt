@@ -58,3 +58,4 @@ cm-wshls.homecdn.com
 hzcm-live.media.hugd.com
 m3u8.channel.dzsm.com
 218.13.170.98
+gcalic.v.myalicdn.com
