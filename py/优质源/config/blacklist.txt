@@ -46,3 +46,6 @@ hls.cntv.lxdns.com
 stream11.jlntv.cn
 bp-resource-dfl.bestv.cn
 newcntv.qcloudcdn.com
+222.169.85.8
+m3u8.channel.dzsm.com
+183.237.95.108
