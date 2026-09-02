@@ -49,3 +49,5 @@ newcntv.qcloudcdn.com
 222.169.85.8
 m3u8.channel.dzsm.com
 183.237.95.108
+38.64.72.148
+31.43.191.125
