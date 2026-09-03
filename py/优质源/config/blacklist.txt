@@ -66,3 +66,6 @@ nklive.nbs.cn
 61.136.172.236
 tvcdn.stream3.hndt.com
 epg.pw
+cm-wshls.homecdn.com
+live.ahsz.tv
+goodiptv.club
