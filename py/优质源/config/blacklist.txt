@@ -69,3 +69,5 @@ epg.pw
 cm-wshls.homecdn.com
 live.ahsz.tv
 goodiptv.club
+hzcm-live.media.hugd.com
+101.66.195.43
