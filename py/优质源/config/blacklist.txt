@@ -20,3 +20,9 @@ live1.habctv.com
 123.130.84.106
 ls.qingting.fm
 223.78.65.165
+ali-vl.cztv.com
+gcalic.v.myalicdn.com
+bp-resource-dfl.bestv.cn
+hzcm-live.media.hugd.com
+m3u8.channel.dzsm.com
+stream.hrbtv.net
