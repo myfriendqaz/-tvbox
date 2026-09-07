@@ -26,3 +26,7 @@ bp-resource-dfl.bestv.cn
 hzcm-live.media.hugd.com
 m3u8.channel.dzsm.com
 stream.hrbtv.net
+lbyzztfe.live.sxmty.com
+live.qthnews.org.cn
+101.66.198.251
+122.224.58.42
