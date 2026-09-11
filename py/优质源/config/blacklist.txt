@@ -43,3 +43,4 @@ m3u8channel.ganzitv.com
 zjtv-wshls.homecdn.com
 125.42.148.178
 tpc.x3322.net
+207.56.13.146
