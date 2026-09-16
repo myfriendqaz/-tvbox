@@ -40,3 +40,7 @@ bp-resource-dfl.bestv.cn
 115.48.161.223
 d1t.alwaysdata.net
 zbbf2.ahbztv.com
+101.66.198.207
+zb-live.ynurl.com
+110.153.180.106
+video.epaper.pybtv.cn
