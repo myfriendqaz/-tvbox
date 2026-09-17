@@ -47,3 +47,5 @@ video.epaper.pybtv.cn
 gcwbndali.v.myalicdn.com
 123.163.114.241
 111.59.139.82
+182.140.125.47
+live.metshop.top
