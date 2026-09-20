@@ -37,3 +37,6 @@ hlscdn.liangtv.cn
 p2hs.vzan.com
 111.59.139.82
 31.43.191.125
+gcalic.v.myalicdn.com
+event.pull.hebtv.com
+live.metshop.top
