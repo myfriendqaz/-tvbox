@@ -43,3 +43,6 @@ live.metshop.top
 bp-resource-dfl.bestv.cn
 tencentplaybusiness.gztv.com
 d1t.alwaysdata.net
+ali-m-l.cztv.com
+119.39.9.8
+zjtv-wshls.homecdn.com
