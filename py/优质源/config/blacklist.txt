@@ -53,3 +53,6 @@ live.ahsz.tv
 153.0.171.163
 hzcm-live.media.hugd.com
 live.chinacert.cftest5.cn
+218.84.12.186
+www.yao87.com
+ldcctvwbcdks.v.kcdnvip.com
