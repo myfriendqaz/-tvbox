@@ -30,3 +30,5 @@ tvcdn.stream3.hndt.com
 bp-resource-dfl.bestv.cn
 101.66.194.125
 d1t.alwaysdata.net
+hkstv.tv
+112.30.73.119
