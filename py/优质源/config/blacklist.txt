@@ -27,3 +27,6 @@ epg.pw
 l2fpdktp.live.sxmty.com
 live.wjyanghu.com
 1yp7hc5p.live.sxmty.com
+m3u8.channel.dzsm.com
+m3u8channel.ganzitv.com
+cm-wshls.homecdn.com
