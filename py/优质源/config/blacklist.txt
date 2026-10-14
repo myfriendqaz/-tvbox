@@ -23,3 +23,5 @@ live.metshop.top
 epg.pw
 123.130.84.106
 stream.jmtv.com.cn
+d1t.alwaysdata.net
+222.169.85.8
