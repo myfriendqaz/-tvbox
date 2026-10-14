@@ -25,3 +25,4 @@ epg.pw
 stream.jmtv.com.cn
 d1t.alwaysdata.net
 222.169.85.8
+l.cztvcloud.com
