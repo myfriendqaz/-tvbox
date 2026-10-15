@@ -31,3 +31,5 @@ zjtv-wshls.homecdn.com
 101.66.195.137
 file.ysxtv.cn
 101.66.195.192
+cm-wshls.homecdn.com
+58.56.162.102
