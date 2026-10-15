@@ -33,3 +33,6 @@ file.ysxtv.cn
 101.66.195.192
 cm-wshls.homecdn.com
 58.56.162.102
+222.134.245.16
+m3u8channel.ganzitv.com
+stream.hrbtv.net
