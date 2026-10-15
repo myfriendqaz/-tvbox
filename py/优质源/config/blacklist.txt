@@ -26,3 +26,8 @@ stream.jmtv.com.cn
 d1t.alwaysdata.net
 222.169.85.8
 l.cztvcloud.com
+m3u8.channel.dzsm.com
+zjtv-wshls.homecdn.com
+101.66.195.137
+file.ysxtv.cn
+101.66.195.192
