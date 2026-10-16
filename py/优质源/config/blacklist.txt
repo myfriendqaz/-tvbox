@@ -36,3 +36,7 @@ cm-wshls.homecdn.com
 222.134.245.16
 m3u8channel.ganzitv.com
 stream.hrbtv.net
+125.125.236.31
+p2hs.vzan.com
+122.152.202.33
+ali-m-l.cztv.com
