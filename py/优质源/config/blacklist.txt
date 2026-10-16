@@ -40,3 +40,5 @@ stream.hrbtv.net
 p2hs.vzan.com
 122.152.202.33
 ali-m-l.cztv.com
+31.43.191.125
+223.78.65.165
