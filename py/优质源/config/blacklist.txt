@@ -31,3 +31,5 @@ live.ahsz.tv
 gcalic.v.myalicdn.com
 stream.jmtv.com.cn
 cm-wshls.homecdn.com
+218.13.170.98
+204.12.221.218
