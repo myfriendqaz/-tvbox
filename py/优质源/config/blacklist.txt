@@ -33,3 +33,9 @@ stream.jmtv.com.cn
 cm-wshls.homecdn.com
 218.13.170.98
 204.12.221.218
+live.chinacert.cftest5.cn
+tylive.kan0512.com
+61.136.172.236
+live.wjyanghu.com
+219.159.147.195
+tntgjhjb.live.sxmty.com
