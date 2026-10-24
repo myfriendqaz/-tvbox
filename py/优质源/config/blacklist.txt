@@ -48,3 +48,6 @@ live.shaoxing.com.cn
 120.40.39.246
 d1t.alwaysdata.net
 173.208.212.130
+113.25.252.226
+stream.hrbtv.net
+m3u8channel.ganzitv.com
