@@ -27,3 +27,6 @@ l.cztvcloud.com
 play.scrstv.com.cn
 bp-resource-dfl.bestv.cn
 223.78.65.165
+live.ottiptv.cc
+l2fpdktp.live.sxmty.com
+hzcm-live.media.hugd.com
