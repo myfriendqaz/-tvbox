@@ -20,3 +20,10 @@ live1.habctv.com
 live.yantaitv.cn
 124.88.144.73
 lxfile.lxxcb.cn
+60.222.246.220
+m3u8channel.ganzitv.com
+111.59.139.82
+stream10.jlntv.cn
+ali-vl.cztv.com
+l.cztvcloud.com
+live.ottiptv.cc
