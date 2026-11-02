@@ -29,3 +29,6 @@ l.cztvcloud.com
 live.ottiptv.cc
 tpc.x3322.net
 cm-wshls.homecdn.com
+bp-resource-dfl.bestv.cn
+zjtv-wshls.homecdn.com
+hzcm-live.media.hugd.com
