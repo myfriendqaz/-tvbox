@@ -32,3 +32,4 @@ cm-wshls.homecdn.com
 bp-resource-dfl.bestv.cn
 zjtv-wshls.homecdn.com
 hzcm-live.media.hugd.com
+live.wjyanghu.com
