@@ -557,3 +557,10 @@ m3u8.channel.wsrtv.com.cn:80
 119.129.172.34:9901
 119.129.172.176:9901
 cdn9.163189.xyz:80
+srs.iyb983.cn:443
+222.128.55.152:9080
+182.114.49.132:9901
+pili-live-hls.wdit.com.cn:443
+115.217.251.87:3000
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
