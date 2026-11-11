@@ -564,3 +564,6 @@ pili-live-hls.wdit.com.cn:443
 115.217.251.87:3000
 bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
+119.129.172.144:9901
+xiangxiws.vip:6777
+p2.bdstatic.com:443
