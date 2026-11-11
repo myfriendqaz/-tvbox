@@ -82,3 +82,4 @@ jwplay.hebyun.com.cn
 tencentplaybusiness.gztv.com
 113.124.186.195
 42.94.209.184
+tvfile.jyrmt.cn
