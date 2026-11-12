@@ -575,3 +575,6 @@ p2.bdstatic.com:443
 tvfile.jyrmt.cn:80
 1.197.250.157:9901
 live.wjyanghu.com:80
+207.56.13.146:81
+ali.hlspull.yximgs.com:80
+bztv.tvbus.cc:8081
