@@ -37,3 +37,10 @@ cm-wshls.homecdn.com
 59.39.89.130
 223.78.65.165
 hzcm-live.media.hugd.com
+112.123.243.37
+m3u8channel.ganzitv.com
+107.150.60.122
+ali-vl.cztv.com
+qmmqvzoz.live.sxmty.com
+153.0.171.163
+112.85.93.3
