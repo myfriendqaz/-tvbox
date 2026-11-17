@@ -69,3 +69,6 @@ epg.pw
 xihewan.cn
 113.90.154.189
 jrlive.jrntv.com
+124.228.160.40
+123.160.173.129
+nn.7x9d.cn
