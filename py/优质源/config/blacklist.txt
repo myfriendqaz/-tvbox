@@ -21,3 +21,17 @@ channel.wcrmt.cn
 112.85.93.3
 liveout.xntv.tv
 m3u8.channel.wsrtv.com.cn
+118.122.144.115
+live1.gatv.com.cn
+139.203.180.9
+112.27.5.218
+112.46.105.20
+101.66.199.181
+l.cztvcloud.com
+lbyzztfe.live.sxmty.com
+221.7.175.154
+101.66.194.88
+bp-resource-dfl.bestv.cn
+42.94.209.184
+101.66.198.77
+223.78.65.165
