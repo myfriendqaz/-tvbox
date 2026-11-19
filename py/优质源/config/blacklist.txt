@@ -37,3 +37,5 @@ bp-resource-dfl.bestv.cn
 223.78.65.165
 hzcm-live.media.hugd.com
 play.jinnantv.top
+ali-m-l.cztv.com
+live.metshop.top
