@@ -35,3 +35,5 @@ bp-resource-dfl.bestv.cn
 42.94.209.184
 101.66.198.77
 223.78.65.165
+hzcm-live.media.hugd.com
+play.jinnantv.top
