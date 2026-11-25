@@ -22,3 +22,9 @@ channel.wcrmt.cn
 liveout.xntv.tv
 tv.drs.ganzitv.com
 101.66.198.220
+114.254.86.171
+m3u8channel.ganzitv.com
+120.237.39.10
+110.72.84.64
+mtayeh.ottb.xyz
+fuxin.yunjifei.top
