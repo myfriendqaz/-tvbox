@@ -18,3 +18,7 @@ video.epaper.pybtv.cn
 61.138.99.166
 channel.wcrmt.cn
 183.129.255.66
+223.83.177.142
+liveout.xntv.tv
+tv.drs.ganzitv.com
+101.66.198.220
